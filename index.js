@@ -1,6 +1,8 @@
 // Add your functions and code here
+
+kittens = ['Bill','Bob','Jane']
 function destructivelyAppendKitten (element) {
-  kitten.push(element);
-  return kitten
+  kittens.push(element);
+  return kittens
 }
 
